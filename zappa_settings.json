@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "snue_p_bot.app",
+        "aws_region": "ap-northeast-2",
+        "profile_name": "default",
+        "s3_bucket": "zappa-kakaobot-dev"
+    }
+}
